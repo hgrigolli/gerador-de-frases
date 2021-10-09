@@ -1,9 +1,6 @@
 import re
 import sqlite3
 
-pattern1 = "lex\((\w*),"
-pattern2 = "CAT=(\w*)"
-
 con = sqlite3.connect('frases.db')
 
 cur = con.cursor()
