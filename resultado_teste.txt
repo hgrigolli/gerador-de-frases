@@ -1,0 +1,4 @@
+lex(Abel, [CAT=np,G=m,SEM=p], [], [], [])
+lex(acre, [CAT=adj,N=s,G=_], [], [], [])
+lex(Acre, [CAT=np,SEM=ter,G=m,N=s], [], [], [])
+lex(Acre, [CAT=np,SEM=ter,G=m,N=s], [], [], [])
